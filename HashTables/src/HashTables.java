@@ -1,6 +1,7 @@
 import java.lang.reflect.Array;
 
 public class HashTables {
+
     String a[];
     //initializes an array of size capacity
     public HashTables(int capacity){
